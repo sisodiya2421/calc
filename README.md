@@ -1,4 +1,4 @@
-#A GUI Calculator 
+# A GUI Calculator 
 
 Calc is GUI calculator made using python 3 and PyQt5.
 Thanks to [RealPython](https://https://realpython.com/) for this tutorial.
